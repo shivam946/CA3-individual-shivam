@@ -1,1 +1,4 @@
-# CA3-individual-shivam
+hp core i7
+512 gb ram
+8gb rom
+intel 
